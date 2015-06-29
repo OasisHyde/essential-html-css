@@ -6,4 +6,4 @@ INFO 343 Essential HTML/CSS Challenge Assets
 																	----SONGQI HOU
 
 ###student web sever
-http://students.washington.edu/hous4/info343/assignment2/essential-html-css/
+http://students.washington.edu/hous4/info343/essential-html-css/
